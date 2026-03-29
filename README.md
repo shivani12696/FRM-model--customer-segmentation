@@ -1,4 +1,4 @@
-# FRM model- customer segmentation
+# RFM model- customer segmentation
 
 We calculate the RFM score by attributing a numerical value for each of the criteria. 
 The customer gets more points -
